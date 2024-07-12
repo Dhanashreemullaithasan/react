@@ -73,7 +73,7 @@ function App() {
             </div>
         </div>
         <div className="card">
-            <img src="/images/im3.png" />
+            <img src="images/im3.png" />
             <div className="card-content">
                 <h2 className="card-title">Jan Losert</h2>
                 <div className="card-stats">
